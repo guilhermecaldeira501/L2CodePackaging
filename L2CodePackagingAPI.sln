@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2CodePackagingAPI", "L2CodePackagingAPI\L2CodePackagingAPI.csproj", "{AF850563-2547-4924-8CCF-8327537C418A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2CodePackagingTests", "L2CodePackagingTests\L2CodePackagingTests.csproj", "{EA533B3B-A011-4128-9D09-0BD6864DFA80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF850563-2547-4924-8CCF-8327537C418A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF850563-2547-4924-8CCF-8327537C418A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF850563-2547-4924-8CCF-8327537C418A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF850563-2547-4924-8CCF-8327537C418A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA533B3B-A011-4128-9D09-0BD6864DFA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA533B3B-A011-4128-9D09-0BD6864DFA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA533B3B-A011-4128-9D09-0BD6864DFA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA533B3B-A011-4128-9D09-0BD6864DFA80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A70CB760-548C-4110-9EF4-DC4EF09C4C62}
+	EndGlobalSection
+EndGlobal
